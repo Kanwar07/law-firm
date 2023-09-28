@@ -1,4 +1,4 @@
-import { Stack } from "@mui/material";
+import { Stack, Button } from "@mui/material";
 import React from "react";
 import NavButton from "../Button/NavButton";
 import styles from "./NavBar.module.css";
@@ -12,10 +12,10 @@ function NavBar() {
           <img src={igstudio} alt="IGStudio" />
         </div>
         <Stack direction="row" spacing={6}>
-          <div className={styles.navtext}>Home</div>
-          <div className={styles.navtext}>Attorneys</div>
-          <div className={styles.navtext}>Practice Areas</div>
-          <div className={styles.navtext}>About Us</div>
+          <Button className={styles.navtext}>Home</Button>
+          <Button className={styles.navtext}>Attorneys</Button>
+          <Button className={styles.navtext}>Practice Areas</Button>
+          <Button className={styles.navtext}>About Us</Button>
         </Stack>
         <NavButton />
       </Stack>

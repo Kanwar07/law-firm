@@ -1,10 +1,10 @@
 .navbuttontext {
-  color: var(--color-white);
+  color: #fff !important;
   font-family: Inter;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
   padding: 0.5rem 1.5rem;
-  border: var(--color-white) solid 2px;
+  border: #fff solid 2px !important;
 }
