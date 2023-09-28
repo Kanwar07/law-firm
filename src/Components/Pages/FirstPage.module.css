@@ -1,0 +1,37 @@
+.maindiv {
+  padding: 3rem 10rem;
+  background-color: #111111;
+}
+
+.heading {
+  color: #fff;
+  font-family: Inter;
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 500;
+  text-align: justify;
+}
+
+.heading1 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mainstack {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading2 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.3;
+}
