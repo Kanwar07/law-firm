@@ -1,0 +1,112 @@
+.secondpagemainstack {
+  padding: 5rem 10rem;
+  background-color: #111111;
+}
+
+.title1 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 161.523%;
+  padding-right: 14rem;
+}
+
+.title2 {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 162.523%;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 6rem;
+}
+
+.title3 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.3;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 2rem;
+}
+
+.title4 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%;
+  text-align: center;
+  padding-top: 6rem;
+}
+
+.secondpagesecondstack {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 6rem;
+}
+
+.cardmedia {
+  background-color: #fff;
+  margin: 1rem;
+  height: 6rem;
+  width: 6rem;
+  border-radius: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.carddiv {
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: #111111;
+  padding: 2rem;
+}
+
+.text {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.text1 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.3;
+}
+
+.carddiv1 {
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: #2e2e2e;
+  padding: 2rem;
+}
+
+.button {
+  background: #e3b748;
+  padding: 0.5rem 1rem;
+  border-radius: 16px;
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 162.523%;
+}

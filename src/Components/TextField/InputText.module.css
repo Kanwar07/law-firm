@@ -5,6 +5,7 @@
 }
 
 .button {
-  border-radius: 43px;
-  background-color: #e3b748;
+  border-radius: 43px !important;
+  background: #e3b748 !important;
+  opacity: 1.1;
 }
