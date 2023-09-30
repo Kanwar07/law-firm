@@ -7,9 +7,9 @@ import {
   Typography,
   CardContent,
   CardActions,
-  Button,
 } from "@mui/material";
 import gift from "../Assets/gift.png";
+import CardButton from "../Button/CardButton";
 
 function SecondPage() {
   return (
@@ -63,9 +63,7 @@ function SecondPage() {
               </Typography>
             </CardContent>
             <CardActions>
-              <Button size="small" className={secondpagestyle.button}>
-                Read More
-              </Button>
+              <CardButton />
             </CardActions>
           </Card>
         </div>
@@ -98,9 +96,7 @@ function SecondPage() {
               </Typography>
             </CardContent>
             <CardActions>
-              <Button size="small" className={secondpagestyle.button}>
-                Read More
-              </Button>
+              <CardButton />
             </CardActions>
           </Card>
         </div>
@@ -133,9 +129,7 @@ function SecondPage() {
               </Typography>
             </CardContent>
             <CardActions>
-              <Button size="small" className={secondpagestyle.button}>
-                Read More
-              </Button>
+              <CardButton />
             </CardActions>
           </Card>
         </div>
